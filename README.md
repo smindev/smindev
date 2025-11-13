@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Nafiz
+🚀 Senior Software Engineer | AI & Backend Systems
 
-<!--
-**smindev/smindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building **E-commerce, AI-driven backends, APIs, and automation tools** using:
+- 🧠 Laravel, Python, FastAPI, LangChain, OpenAI API
+- 🗄️ Postgres, Redis, MySQL
+- ⚙️ Docker, GitHub Actions
 
-Here are some ideas to get you started:
+### 🧩 Featured Projects
+| Project | Description | Stack |
+|----------|--------------|--------|
+| [AI-FastAPI-Template](https://github.com/smindev/ai-fastapi-template) | Starter kit for AI-powered backend APIs | FastAPI, OpenAI |
+| [LangChain-Chatbot-API](https://github.com/smindev/langchain-chatbot-api) | ChatGPT-style API using LangChain + FastAPI | LangChain, FAISS |
+| [AI-Text-Automation](https://github.com/smindev/ai-text-automation) | Automates text summarization and classification | OpenAI, FastAPI |
+| [Lozbi E-commerce](https://github.com/smindev/lozbi) | Laravel | E-commerece |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
